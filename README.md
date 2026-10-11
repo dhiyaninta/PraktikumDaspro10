@@ -4,20 +4,14 @@ NIM: 264107020172
 Kelas: TI-1E
 
 Hasil Uji Studi Kasus 2 oleh Nabila Windi Febrian
-| No |  Jenis  | Dokumen | Juara/ Dana |         Output       |                 Sesuai?             |
-|----|---------|---------|-------------|----------------------|-------------------------------------|
-| 1. | BAKORMA |    3    |  Juara 1    |Dokumen kurang lengkap|Dokumen tidak lengkap(kurang 1-      |
-|    |         |         |             |(kurang 1 dokumen).   |dokumen). Dana penghargaan tidak     |
-|    |         |         |             |Dana penghargaan      |diberikan                            |
-|    |         |         |             |tidak diberikan       |                                     |
-| 2. | MANDIRI |    4    |0(bukan -    |Tidak mendapat dana   |Tidak memperoleh dana penghargaan    |
-|    |         |         |juara 1/2/3) |karena bukan juara    |(hanya untuk juara 1/2/3).           |
-|    |         |         |             |peringkat 1,2,atau 3. |                                     |
-| 3. |  pkm    |    4    | 1 (lolos)   |        lolos         |Berhak memperoleh dana penghargaan   |
-|    |         |         |             |                      |(PKM lolos pendanaan).               |
-| 4. | Lainnya |    4    |(tidak di-   |Tidak mendapat dana   |Tidak memperoleh dana penghargaan    |
-|    |         |         |pertanyakan) |                      |(jenis kegiatan tidak termasuk -     |
-|    |         |         |             |                      |ketentuan)                           |
-| 5. | PKM     |    4    | 1 (lolos)   |        lolos         |Berhak memperoleh dana penghargaan   |
-|    |         |         |             |                      |(PKM lolos pendanaan).               |
+| No |  Jenis  | Dokumen | Juara/ Dana |    Output    |   Sesuai?  |
+|----|---------|---------|-------------|--------------|------------|
+| 1. | BAKORMA |    3    |   Juara 1   |Dokumen kurang lengkap (kurang 1 dokumen).Dana penghargaan
+tidak diberikan.| Sesuai |
+| 2. | MANDIRI |    4    |   Juara 0   |Tidak mendapat dana penghargaan(hanya untuk
+juara 1/2/3)  | Sesuai |
+| 3. |  pkm    |    4    | 1 (lolos)   |Berhak memperoleh dana penghargaan (PKM lolos pendanaan).| Sesuai |
+| 4. | Lainnya |    4    |  (tidak dipertanyakan) |Tidak memperoleh dana penghargaan
+(jenis kegiatan tidak termasuk ketentuan). | Sesuai |
+| 5. | BELMAWA |    4    |   Juara 2   |Berhak memperoleh dana penghargaan. | Sesuai |
 
